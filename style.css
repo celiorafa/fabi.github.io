@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: #ffffff url("./img/bg_geralA.png") center top no-repeat;
+	background: #ffffff url("bg_geralA.png") center top no-repeat;
 	
 }
 
@@ -43,7 +43,7 @@ li {
 
 #capa{
 	margin: auto;
-	background-image: url("./img/foto01.jpg");
+	background-image: url("foto01.jpg");
 	max-width: 1000px;
 	height: 600px;
 	
