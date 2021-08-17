@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #ffffff url("./img/bg_geralA.png") center top no-repeat;
+	
+}
+
+#logo{
+	height: 130px;
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#logoS{
+	height: 130px;
+}
+
+header{
+
+	margin-top: 400px;
+	margin: auto;
+	background-color: #108D82;
+	max-width: 1000px;
+	height: 50px;
+	
+	
+}
+
+#menu{
+
+	list-style: none;
+	color: white;
+	float: right;
+
+
+}
+li {
+	display: inline;
+	margin-right: 150px;
+
+}
+
+#capa{
+	margin: auto;
+	background-image: url("./img/foto01.jpg");
+	max-width: 1000px;
+	height: 600px;
+	
+}
+
+#onda{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	margin-top: -120px;
+}
